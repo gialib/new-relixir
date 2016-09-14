@@ -4,7 +4,7 @@ defmodule NewRelixir.Mixfile do
   def project do
     [app: :new_relixir,
      name: "New Relixir",
-     version: "0.1.0",
+     version: "0.2.0",
      elixir: "~> 1.1",
      description: "New Relic tracking for Elixir applications.",
      package: package,
